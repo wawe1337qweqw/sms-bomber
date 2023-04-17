@@ -1,2 +1,2 @@
 # sms-bomber
-adsa
+adsas
